@@ -1,1 +1,1 @@
-py -m pip install -r requirments.txt
+py -m pip install -r req.txt
