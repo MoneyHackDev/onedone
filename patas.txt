@@ -1,0 +1,16 @@
+https://github.com/ZEROWyt/Kernel-driver-eac-be-
+https://github.com/Azvanzed/EAC-Runtime-Extractor/tree/main
+https://github.com/dvemon/data-ptr-comm/blob/main/data-ptr-um/main.cpp
+https://github.com/egatobaS/Driver-Control-Dispatch-Hooking
+https://github.com/ContionMig/KernelMode-Bypass/tree/master
+https://github.com/exovalqo/EAC-Hook-Driver/tree/main
+https://github.com/Nixyy9435/EAC-Driver-UD-for-now/tree/main
+https://github.com/ContionMig/LSASS-Usermode-Bypass/tree/master
+https://github.com/CHIWAWAZR/eac-driver
+https://github.com/Netizen-alt/EAC_ASM/blob/main/driver.cpp
+https://www.unknowncheats.me/forum/anti-cheat-bypass/565881-discussing-learning-hypervisor-based-anti-cheat-bypassing.html
+https://www.unknowncheats.me/forum/anti-cheat-bypass/261176-silentjack-ultimate-handle-hijacking-user-mode-multi-ac-bypass-eac-tested.html
+https://github.com/DarthTon/Blackbone
+https://github.com/Rogue619Z/Manual-Map-Injector/blob/main/Client/pclient/pclient.cpp
+https://github.com/Azvanzed/IdaMeme
+https://github.com/Rogue619Z/Kernelinjector/blob/main/main.cpp
